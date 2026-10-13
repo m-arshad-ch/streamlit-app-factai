@@ -1,0 +1,9 @@
+streamlit>=1.32
+openai-whisper
+ddgs
+requests
+beautifulsoup4
+lxml
+spacy
+torch
+transformers

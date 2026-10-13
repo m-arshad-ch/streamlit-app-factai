@@ -1,0 +1,14 @@
+[
+  {"claim":"The Earth orbits the Sun.","premise":"Earth completes one orbit around the Sun approximately every 365 days.","label":"entailment"},
+  {"claim":"The Earth orbits the Sun.","premise":"The Sun completes an orbit around Earth once every year.","label":"contradiction"},
+  {"claim":"The Earth orbits the Sun.","premise":"Earth has one natural satellite called the Moon.","label":"neutral"},
+  {"claim":"Water freezes at 0 degrees Celsius at standard pressure.","premise":"At standard atmospheric pressure, pure water freezes at 0 °C.","label":"entailment"},
+  {"claim":"Water freezes at 0 degrees Celsius at standard pressure.","premise":"Pure water freezes at 10 °C under standard atmospheric pressure.","label":"contradiction"},
+  {"claim":"Water freezes at 0 degrees Celsius at standard pressure.","premise":"Water covers most of Earth's surface.","label":"neutral"},
+  {"claim":"The Pacific Ocean is larger than the Atlantic Ocean.","premise":"The Pacific is the largest ocean and is larger than the Atlantic.","label":"entailment"},
+  {"claim":"The Pacific Ocean is larger than the Atlantic Ocean.","premise":"The Atlantic Ocean is larger than the Pacific Ocean.","label":"contradiction"},
+  {"claim":"The Pacific Ocean is larger than the Atlantic Ocean.","premise":"The Indian Ocean is the third-largest ocean.","label":"neutral"},
+  {"claim":"A triangle has three sides.","premise":"A triangle is a polygon with exactly three sides.","label":"entailment"},
+  {"claim":"A triangle has three sides.","premise":"A triangle has four sides.","label":"contradiction"},
+  {"claim":"A triangle has three sides.","premise":"Some triangles have equal-length sides.","label":"neutral"}
+]
